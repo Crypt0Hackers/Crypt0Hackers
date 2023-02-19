@@ -4,7 +4,7 @@
 
 - 🔭 Founder [0xThirdEye](https://0xthirdeye.xyz/)
 
-- 👨‍💻 Guest Lecturer Imperial College London **https://www.linkedin.com/posts/amaechi-okolobi-3b36811a6_chainlink-blockchain-web3-activity-7029163825081774080-HpfB?utm_source=share&utm_medium=member_desktop**
+- 👨‍💻 Guest Lecturer for Undergrad Computer Science @ [Imperial College London](https://www.linkedin.com/posts/amaechi-okolobi-3b36811a6_chainlink-blockchain-web3-activity-7029163825081774080-HpfB?utm_source=share&utm_medium=member_desktop)
 
 - 👯 Competitive Auditor [Code4rena](https://code4rena.com/)
 
@@ -18,7 +18,6 @@
 
 - ⚡ Fun fact **++i is cheaper than i++**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amaechieth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amaechieth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/" height="30" width="40" /></a>
