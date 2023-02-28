@@ -6,7 +6,7 @@
 
 - 👨‍💻 Guest Lecturer for Undergrad Computer Science @ [Imperial College London](https://www.linkedin.com/posts/amaechi-okolobi-3b36811a6_chainlink-blockchain-web3-activity-7029163825081774080-HpfB?utm_source=share&utm_medium=member_desktop)
 
-- 👯 Competitive Auditor [Code4rena](https://code4rena.com/)
+- 👯 Competitive Auditor [Code4rena](https://code4rena.com/) Alisases: AmaechiEth && UniversalCrypto
 
 - 🤝 Smart Contract Adovcate [Chainlink](https://chainlinktoday.com/chainlink-hosts-smart-contract-developer-bootcamp-at-imperial-college-london/)
 
