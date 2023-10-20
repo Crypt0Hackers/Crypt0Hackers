@@ -2,21 +2,21 @@
 
 <p align="left"> <a href="https://twitter.com/amaechieth" target="blank"><img src="https://img.shields.io/twitter/follow/amaechieth?logo=twitter&style=for-the-badge" alt="amaechieth" /></a> </p>
 
-- 🔭 Founders [0xThirdEye](https://0xthirdeye.com/)
+- 👯 Blockchain Security Researcher [Code4rena](https://code4rena.com/) Aliases: UniversalCrypto && AmaechiEth && TettehNetworks 
 
-- 👨‍💻 Guest Lecturers for Undergrad Computer Science @ [Imperial College London](https://www.linkedin.com/posts/amaechi-okolobi-3b36811a6_chainlink-blockchain-web3-activity-7029163825081774080-HpfB?utm_source=share&utm_medium=member_desktop)
+- 🤝 Chainlink Developer Expert [Chainlink](https://chainlinktoday.com/chainlink-hosts-smart-contract-developer-bootcamp-at-imperial-college-london/)
 
-- 👯 Competitive Auditor [Code4rena](https://code4rena.com/) Aliases: UniversalCrypto && AmaechiEth && TettehNetworks 
+- 👨‍💻 Guest Lecture @ [Imperial College London](https://www.linkedin.com/posts/amaechi-okolobi-3b36811a6_chainlink-blockchain-web3-activity-7029163825081774080-HpfB?utm_source=share&utm_medium=member_desktop)
 
-- 🤝 Smart Contract Adovcate [Chainlink](https://chainlinktoday.com/chainlink-hosts-smart-contract-developer-bootcamp-at-imperial-college-london/)
-
-- 👨‍💻 Twitter [twitter.com/amaechieth](twitter.com/amaechieth) [twitter.com/tettehnetworks](twitter.com/tettehnetworks)
-
+- 📫 Book Me For A Security Review:
+- EMAIL: **okolobiam@gmail.com**
+- TWITTER: [@amaechieth](twitter.com/amaechieth)
+- Code4rena: [@amaechieth](https://code4rena.com/@amaechieth)
+- Cantina: [@amaechieth](https://cantina.xyz/u/amaechieth)
+  
 - 📝 LinkedIn [https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/](https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/) [https://www.linkedin.com/in/tyrese-t-73b09b161/](https://www.linkedin.com/in/tyrese-t-73b09b161/)
 
-- 📫 Email **okolobiam@gmail.com** && **tettehnetworks@gmail.com**
 
-- ⚡ Fun fact **++i is cheaper than i++**
 
 <p align="left">
 <a href="https://twitter.com/amaechieth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amaechieth" height="30" width="40" /></a>
