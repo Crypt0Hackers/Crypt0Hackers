@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://twitter.com/amaechieth" target="blank"><img src="https://img.shields.io/twitter/follow/amaechieth?logo=twitter&style=for-the-badge" alt="amaechieth" /></a> </p>
 
-- 👯 Blockchain Security Researcher [Code4rena](https://code4rena.com/) Aliases: UniversalCrypto && AmaechiEth && TettehNetworks 
+- 👯 Blockchain Security Researcher [Code4rena](https://code4rena.com/) Aliases: UniversalCrypto && AmaechiEth
 
 - 🤝 Chainlink Developer Expert [Chainlink](https://chainlinktoday.com/chainlink-hosts-smart-contract-developer-bootcamp-at-imperial-college-london/)
 
@@ -14,8 +14,7 @@
 - Code4rena: [@amaechieth](https://code4rena.com/@amaechieth)
 - Cantina: [@amaechieth](https://cantina.xyz/u/amaechieth)
   
-- 📝 LinkedIn [https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/](https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/) [https://www.linkedin.com/in/tyrese-t-73b09b161/](https://www.linkedin.com/in/tyrese-t-73b09b161/)
-
+- 📝 LinkedIn [https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/](https://www.linkedin.com/in/amaechi-okolobi-3b36811a6/)  
 
 
 <p align="left">
