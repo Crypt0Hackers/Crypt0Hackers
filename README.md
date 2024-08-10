@@ -1,4 +1,4 @@
-<h3 align="center">Blockchain Security Research & Development</h3>
+<h3 align="center">Blockchain Engineering & Security Research</h3>
 
 <p align="left"> <a href="https://twitter.com/amaechieth" target="blank"><img src="https://img.shields.io/twitter/follow/amaechieth?logo=twitter&style=for-the-badge" alt="amaechieth" /></a> </p>
 
