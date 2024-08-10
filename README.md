@@ -4,7 +4,7 @@
 
 - 👯 Blockchain Security Researcher [Code4rena](https://code4rena.com/) Aliases: UniversalCrypto && AmaechiEth
 
-- 🤝 Chainlink Developer Expert [Chainlink](https://chainlinktoday.com/chainlink-hosts-smart-contract-developer-bootcamp-at-imperial-college-london/)
+- 🤝 Software Engineer @ Chainlink Labs
 
 - 👨‍💻 Guest Lecture @ [Imperial College London](https://www.linkedin.com/posts/amaechi-okolobi-3b36811a6_chainlink-blockchain-web3-activity-7029163825081774080-HpfB?utm_source=share&utm_medium=member_desktop)
 
